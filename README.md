@@ -1,0 +1,2 @@
+# knm
+kỹ năng mềm
